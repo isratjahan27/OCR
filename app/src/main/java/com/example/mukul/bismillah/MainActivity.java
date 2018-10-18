@@ -46,7 +46,6 @@ public class MainActivity extends AppCompatActivity {
 
         btnSelectImage1 = (Button) findViewById(R.id.btnSelectImage);
 
-
         setSupportActionBar(toolbar);
 
         FloatingActionButton fab = (FloatingActionButton) findViewById(R.id.fab);
